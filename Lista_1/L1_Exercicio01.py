@@ -1,7 +1,7 @@
 # Variáveis
-nome = 'Peter Jandl Jr'
-idade = 56
-cidade = 'Itatiba-SP'
+nome = 'Gabriel Pereira Torelli'
+idade = '18'  
+cidade = 'Vinhedo-SP'
 
 # Saída de dados (impressão)
 print(nome, ',', idade)
